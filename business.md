@@ -181,7 +181,16 @@ Le succès vient de l'application des 3A en suivant les principes **RESCUE3D** :
 
 **Projet de livre** sur le modèle 3A × RESCUE3D → levier d'autorité et générateur de conférences (format préféré). Cible : **manuscrit terminé pour la fin de l'été 2026** (fin août), puis auto-édition + version audio à l'automne 2026.
 
-**Newsletter** sur le sujet (IA + monde incertain + RESCUE3D) : projet acté, à lancer en amont du livre pour construire l'audience.
+**Newsletter « L'Équipe Hybride »** (Substack) : projet acté, à lancer en amont du livre pour construire l'audience.
+- **Sujet** : diriger et développer des équipes hybrides humains + agents IA, lu à travers la grille RESCUE3D
+- **Premier angle** : le développement d'équipe (le D de RESCUE3D) appliqué aux équipes hybrides — cas McKinsey (40 000 humains / 20 000 agents IA, parité visée fin 2026), Siemens, Asana
+- **Cible** : managers, leaders RH et formateurs francophones
+- **Rythme** : hebdomadaire (jeudi matin), ~800-1000 mots, 5 min de lecture
+- **Structure fixe** : accroche (actu/chiffre de veille) → décodage (principe RESCUE3D ou 3A) → action de la semaine → clin d'œil storytelling
+- **Lead magnet** : mini-guide « Les 5 premières questions à se poser avant d'intégrer une IA dans son équipe »
+- **Croissance** : posts LinkedIn hebdo + signature email + fin de formations
+- **Objectifs abonnés** : 100 au lancement → 500 été 2026 → 1000 fin 2026 (seuil communauté payante)
+- **Lien livre** : chaque édition = brouillon d'une section du manuscrit (~25 éditions d'ici fin août)
 
 ### Projet phare : Plateforme d'autodidaxie
 - Plateforme en ligne avec outils de suivi de progression

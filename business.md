@@ -32,7 +32,7 @@
 | **Learning + IA** | Cycle ADDIE complet : de la préparation à l'évaluation |
 | **Procurement + IA** | Booster les processus achats avec l'IA |
 | **Leadership bienveillant** | (hors IA) Management humain et inclusif |
-| **Modèle 3A × RESCUE2D** | Attitudes face au monde VUCA — voir section 7 pour le détail du modèle |
+| **Modèle 3A × RESCUE3D** | Attitudes face au monde VUCA — voir section 7 pour le détail du modèle |
 
 ### Format préféré
 - **Conférences** (format préféré mais plus difficile à vendre)
@@ -161,25 +161,27 @@
 
 ## 7. Vision & Objectifs
 
-### Le modèle 3A × RESCUE2D (propriété intellectuelle originale)
+### Le modèle 3A × RESCUE3D (propriété intellectuelle originale)
 
-**Formule : 3A × RESCUE2D = Succès**
+**Formule : 3A × RESCUE3D = Succès**
 
 Les **3A** (les trois moments d'action) :
 1. **Analyse**
 2. **Actions**
 3. **Adaptations** (rétroaction, boucle systémique)
 
-Le succès vient de l'application des 3A en suivant les principes **RESCUE2D** :
+Le succès vient de l'application des 3A en suivant les principes **RESCUE3D** :
 - **R**obustesse
 - **E**mpathie
 - **S**ystémique
 - **C**omplexe (acceptation de la complexité)
 - **U**niversel
 - **E**nergie : conservation de l'énergie physique et mentale
-- **2D / D**éveloppement : de l'individu, de l'équipe et de l'organisation
+- **3D / D**éveloppement à 3 niveaux : l'individu, l'équipe et l'organisation
 
-**Projet de livre** sur le modèle 3A × RESCUE2D → levier d'autorité et générateur de conférences (format préféré). Cible : auto-édition + version audio, sortie visée fin 2026.
+**Projet de livre** sur le modèle 3A × RESCUE3D → levier d'autorité et générateur de conférences (format préféré). Cible : **manuscrit terminé pour la fin de l'été 2026** (fin août), puis auto-édition + version audio à l'automne 2026.
+
+**Newsletter** sur le sujet (IA + monde incertain + RESCUE3D) : projet acté, à lancer en amont du livre pour construire l'audience.
 
 ### Projet phare : Plateforme d'autodidaxie
 - Plateforme en ligne avec outils de suivi de progression
@@ -188,7 +190,7 @@ Le succès vient de l'application des 3A en suivant les principes **RESCUE2D** :
 - Rencontres physiques ponctuelles
 - **Temps à y consacrer** : 1/2 à 1 jour/semaine au début
 - **Modèle économique** : payant ou vente groupée avec formations en classe
-- **Thèmes** : formations IA + leadership bienveillant + modèle 3A × RESCUE2D
+- **Thèmes** : formations IA + leadership bienveillant + modèle 3A × RESCUE3D
 
 ### Semaine idéale (post-avril 2026)
 | Temps | Activité |
@@ -217,20 +219,20 @@ Le succès vient de l'application des 3A en suivant les principes **RESCUE2D** :
 ### Stratégie revenu à effet de levier ("revenu passif")
 Objectif : générer un revenu récurrent finançant le développement des activités. Règle : 70-80% du temps sur le facturable en année 1.
 
-**Escalier de valeur autour de 3A × RESCUE2D :**
+**Escalier de valeur autour de 3A × RESCUE3D :**
 1. **Audience d'abord** : newsletter hebdo (recycler l'heure de veille quotidienne) + lead magnet via Systeme.io — dès maintenant
 2. **Double usage des formations live** : enregistrer/capturer chaque formation donnée → cours en ligne autonomes (200-400€)
-3. **Licence B2B** : licencier les contenus aux organismes de formation partenaires (royalty par inscrit) + futur "train-the-trainer 3A × RESCUE2D" certifiant
-4. **Livre 3A × RESCUE2D** : générateur de conférences mieux payées (un auteur se vend 2-3x plus cher en keynote)
+3. **Licence B2B** : licencier les contenus aux organismes de formation partenaires (royalty par inscrit) + futur "train-the-trainer 3A × RESCUE3D" certifiant
+4. **Livre 3A × RESCUE3D** : générateur de conférences mieux payées (un auteur se vend 2-3x plus cher en keynote)
 5. **Communauté payante** : à lancer seulement à partir de ~500-1000 abonnés newsletter engagés
 
 **Séquencement :**
 | Période | Action |
 |---------|--------|
-| Maintenant → avril 2026 | Newsletter + lead magnet + enregistrement des formations |
-| Q2 2026 | Premier cours en ligne + proposition de licence aux partenaires |
-| Q3 2026 | Écriture intensive du livre |
-| Q4 2026 | Sortie livre + push conférences 2027 + beta communauté |
+| Février → avril 2026 | Lancement newsletter + lead magnet + début d'écriture du livre + enregistrement des formations |
+| Q2 2026 (mai-juin) | Écriture régulière du livre + premier cours en ligne + proposition de licence aux partenaires |
+| Été 2026 (juillet-août) | Sprint final d'écriture → **manuscrit terminé fin août** |
+| Automne 2026 | Publication du livre (auto-édition + audio) + push conférences 2027 + beta communauté |
 
 ---
 

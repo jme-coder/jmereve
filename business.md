@@ -32,7 +32,7 @@
 | **Learning + IA** | Cycle ADDIE complet : de la préparation à l'évaluation |
 | **Procurement + IA** | Booster les processus achats avec l'IA |
 | **Leadership bienveillant** | (hors IA) Management humain et inclusif |
-| **Modèle RESQ'd** (ex-RESCUE) | Attitudes face au monde VUCA — voir section 7 pour le détail du modèle |
+| **Modèle 3A × RESCUE2D** | Attitudes face au monde VUCA — voir section 7 pour le détail du modèle |
 
 ### Format préféré
 - **Conférences** (format préféré mais plus difficile à vendre)
@@ -161,20 +161,25 @@
 
 ## 7. Vision & Objectifs
 
-### Le modèle RESQ'd (propriété intellectuelle originale)
-Évolution affinée du modèle RESCUE. Principes, dans l'ordre :
+### Le modèle 3A × RESCUE2D (propriété intellectuelle originale)
+
+**Formule : 3A × RESCUE2D = Succès**
+
+Les **3A** (les trois moments d'action) :
+1. **Analyse**
+2. **Actions**
+3. **Adaptations** (rétroaction, boucle systémique)
+
+Le succès vient de l'application des 3A en suivant les principes **RESCUE2D** :
 - **R**obustesse
 - **E**mpathie
-- **S**ystémique (analyse systémique)
-- **Q** : acceptation de la complexité / universalité
-- **'d** : maintien de l'énergie physique et mentale, développement personnel, par équipe et de l'organisation
+- **S**ystémique
+- **C**omplexe (acceptation de la complexité)
+- **U**niversel
+- **E**nergie : conservation de l'énergie physique et mentale
+- **2D / D**éveloppement : de l'individu, de l'équipe et de l'organisation
 
-Articulé autour de **3 moments d'action** :
-1. **Analyse**
-2. **Action**
-3. **Adaptation** (rétroaction, boucle systémique)
-
-**Projet de livre** sur le modèle RESQ'd → levier d'autorité et générateur de conférences (format préféré). Cible : auto-édition + version audio, sortie visée fin 2026.
+**Projet de livre** sur le modèle 3A × RESCUE2D → levier d'autorité et générateur de conférences (format préféré). Cible : auto-édition + version audio, sortie visée fin 2026.
 
 ### Projet phare : Plateforme d'autodidaxie
 - Plateforme en ligne avec outils de suivi de progression
@@ -183,7 +188,7 @@ Articulé autour de **3 moments d'action** :
 - Rencontres physiques ponctuelles
 - **Temps à y consacrer** : 1/2 à 1 jour/semaine au début
 - **Modèle économique** : payant ou vente groupée avec formations en classe
-- **Thèmes** : formations IA + leadership bienveillant + modèle RESCUE
+- **Thèmes** : formations IA + leadership bienveillant + modèle 3A × RESCUE2D
 
 ### Semaine idéale (post-avril 2026)
 | Temps | Activité |
@@ -212,11 +217,11 @@ Articulé autour de **3 moments d'action** :
 ### Stratégie revenu à effet de levier ("revenu passif")
 Objectif : générer un revenu récurrent finançant le développement des activités. Règle : 70-80% du temps sur le facturable en année 1.
 
-**Escalier de valeur autour de RESQ'd :**
+**Escalier de valeur autour de 3A × RESCUE2D :**
 1. **Audience d'abord** : newsletter hebdo (recycler l'heure de veille quotidienne) + lead magnet via Systeme.io — dès maintenant
 2. **Double usage des formations live** : enregistrer/capturer chaque formation donnée → cours en ligne autonomes (200-400€)
-3. **Licence B2B** : licencier les contenus aux organismes de formation partenaires (royalty par inscrit) + futur "train-the-trainer RESQ'd" certifiant
-4. **Livre RESQ'd** : générateur de conférences mieux payées (un auteur se vend 2-3x plus cher en keynote)
+3. **Licence B2B** : licencier les contenus aux organismes de formation partenaires (royalty par inscrit) + futur "train-the-trainer 3A × RESCUE2D" certifiant
+4. **Livre 3A × RESCUE2D** : générateur de conférences mieux payées (un auteur se vend 2-3x plus cher en keynote)
 5. **Communauté payante** : à lancer seulement à partir de ~500-1000 abonnés newsletter engagés
 
 **Séquencement :**

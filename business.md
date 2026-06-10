@@ -32,7 +32,7 @@
 | **Learning + IA** | Cycle ADDIE complet : de la préparation à l'évaluation |
 | **Procurement + IA** | Booster les processus achats avec l'IA |
 | **Leadership bienveillant** | (hors IA) Management humain et inclusif |
-| **Modèle RESCUE** | Attitudes face au monde VUCA : Robuste, Empathique, Systémique, Complexe, Écologie, Universalité |
+| **Modèle RESQ'd** (ex-RESCUE) | Attitudes face au monde VUCA — voir section 7 pour le détail du modèle |
 
 ### Format préféré
 - **Conférences** (format préféré mais plus difficile à vendre)
@@ -161,6 +161,21 @@
 
 ## 7. Vision & Objectifs
 
+### Le modèle RESQ'd (propriété intellectuelle originale)
+Évolution affinée du modèle RESCUE. Principes, dans l'ordre :
+- **R**obustesse
+- **E**mpathie
+- **S**ystémique (analyse systémique)
+- **Q** : acceptation de la complexité / universalité
+- **'d** : maintien de l'énergie physique et mentale, développement personnel, par équipe et de l'organisation
+
+Articulé autour de **3 moments d'action** :
+1. **Analyse**
+2. **Action**
+3. **Adaptation** (rétroaction, boucle systémique)
+
+**Projet de livre** sur le modèle RESQ'd → levier d'autorité et générateur de conférences (format préféré). Cible : auto-édition + version audio, sortie visée fin 2026.
+
 ### Projet phare : Plateforme d'autodidaxie
 - Plateforme en ligne avec outils de suivi de progression
 - Formations enregistrées
@@ -193,6 +208,24 @@
 1. Collecte automatique des factures (outils IA, comptes multiples)
 2. Envoi automatique au comptable
 3. Gestion fiscale simplifiée
+
+### Stratégie revenu à effet de levier ("revenu passif")
+Objectif : générer un revenu récurrent finançant le développement des activités. Règle : 70-80% du temps sur le facturable en année 1.
+
+**Escalier de valeur autour de RESQ'd :**
+1. **Audience d'abord** : newsletter hebdo (recycler l'heure de veille quotidienne) + lead magnet via Systeme.io — dès maintenant
+2. **Double usage des formations live** : enregistrer/capturer chaque formation donnée → cours en ligne autonomes (200-400€)
+3. **Licence B2B** : licencier les contenus aux organismes de formation partenaires (royalty par inscrit) + futur "train-the-trainer RESQ'd" certifiant
+4. **Livre RESQ'd** : générateur de conférences mieux payées (un auteur se vend 2-3x plus cher en keynote)
+5. **Communauté payante** : à lancer seulement à partir de ~500-1000 abonnés newsletter engagés
+
+**Séquencement :**
+| Période | Action |
+|---------|--------|
+| Maintenant → avril 2026 | Newsletter + lead magnet + enregistrement des formations |
+| Q2 2026 | Premier cours en ligne + proposition de licence aux partenaires |
+| Q3 2026 | Écriture intensive du livre |
+| Q4 2026 | Sortie livre + push conférences 2027 + beta communauté |
 
 ---
 

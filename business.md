@@ -221,9 +221,15 @@ Le succès vient de l'application des 3A en suivant les principes **RESCUE3D** :
 3. Compétences solo-entrepreneur
 
 ### Automatisations prioritaires
-1. Collecte automatique des factures (outils IA, comptes multiples)
-2. Envoi automatique au comptable
-3. Gestion fiscale simplifiée
+1. **Collecte automatique des factures** (priorité n°1)
+   - **Sources identifiées (4)** :
+     - Gmail personnel : jmeverard@gmail.com
+     - Google Workspace : jme@jmereve.be
+     - Outlook : jme@learningovation.com
+     - Stripe/Link (plusieurs comptes distincts)
+   - **Destination** : envoi automatique au comptable
+   - **Outil envisagé** : n8n (déjà installé sur VPS)
+2. Gestion fiscale simplifiée
 
 ### Stratégie revenu à effet de levier ("revenu passif")
 Objectif : générer un revenu récurrent finançant le développement des activités. Règle : 70-80% du temps sur le facturable en année 1.
